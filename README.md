@@ -1,5 +1,8 @@
 We're collecting the new SERP features submitted by different people in this repo. This one is also collected over Airtable.
 
+![GIF from Airtable](https://github.com/zeoagency/serp-feature-database/blob/main/serp-features.gif?raw=true)
+
+
 # Todo
 - We will connect Airtable into Github to make it dynamic.
 - Creating a guidance for the users without ability of using Git to create issues to submit them.
